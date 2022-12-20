@@ -1,9 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo2512&layout=compact)](https://github.com/bernardo2512/github-readme-stats)
 
 <!--
-**lucianoyamane/lucianoyamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bernardo2512/bernardo2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
