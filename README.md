@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on React and Spring Boot (Java)
+- 🌱 I’m currently learning Flutter 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo2512&layout=compact)](https://github.com/bernardo2512/github-readme-stats)
 
